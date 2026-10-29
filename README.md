@@ -1,6 +1,8 @@
 
 # Task 15 – GitHub Actions CI
 
+[![Tests](https://github.com/Stazus/task15-github-actions/actions/workflows/test.yml/badge.svg?branch=main)](https://github.com/Stazus/task15-github-actions/actions/workflows/test.yml)
+
 Projekt demonstracyjny automatycznego testowania kodu Python z wykorzystaniem GitHub Actions i pytest.
 
 ## Funkcjonalności
