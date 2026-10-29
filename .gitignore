@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Pytest
+.pytest_cache/
+
+# Srodowiska wirtualne
+venv/
+.venv/
+ds_env/
+
+# Pliki systemowe
+.DS_Store
